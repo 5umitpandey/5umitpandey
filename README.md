@@ -1,5 +1,5 @@
-# Hey there<img src="https://github.com/sharur7/sharur7-profile-readme/blob/master/wave.gif" width="30px"><br>I am Sumit Pandey.
-I am a Data Science Student!.<br>
+# Hey there <img src="https://github.com/sharur7/sharur7-profile-readme/blob/master/wave.gif" width="30px"><br>My name is Sumit Pandey.
+I am a Data Science Student !<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsyoursumit" alt="sharur7" /> </p> 
 
