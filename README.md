@@ -26,7 +26,6 @@ I am a Data Science Student !<br>
 ###### Tools :
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Firebase](https://img.shields.io/badge/-Firebase-181717?style=flat-square&logo=firebase)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-181717?style=flat-square&logo=anaconda)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
