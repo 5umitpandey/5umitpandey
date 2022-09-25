@@ -8,26 +8,28 @@ I am a Data Science Student !<br>
 [<img src = "https://img.shields.io/badge/instagram-%23EE157B.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/sumit.xv/)
 [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:spppandey252@gmail.com)
 
-[<img src ="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white">](https://www.codechef.com/users/tetnf)
-[<img src ="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/itsyoursumit)
+#### CPP profiles :
+[<img src ="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white">](https://www.codechef.com/users/tetnf)
+[<img src ="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/itsyoursumit)
+[<img src ="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white">](https://www.codechef.com/users/itsyoursumit)
 
 
 ###### Languages :
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&color=000000)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c&color=000000)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&color=000000)
 
 ###### Front-End :
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 ###### Tools :
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Anaconda](https://img.shields.io/badge/-Anaconda-181717?style=flat-square&logo=anaconda)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&color=000000)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&color=000000)
+![Anaconda](https://img.shields.io/badge/-Anaconda-181717?style=for-the-badge&logo=anaconda&color=000000)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=000000)
 
 ### Some of my GitHub Stats:
 <p>
