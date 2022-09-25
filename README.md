@@ -1,7 +1,7 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><br>My name is Sumit Pandey.
 I am a Data Science Student !<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsyoursumit" alt="sharur7" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsyoursumit" /> </p> 
 
 #### Connect with me on :
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/itsyoursumit/) 
