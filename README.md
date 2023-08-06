@@ -1,11 +1,11 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><br>My name is Sumit Pandey.
 I am a Data Science Student !<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsyoursumit" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumi1pandey" /> </p> 
 
 #### Connect with me on :
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/itsyoursumit/) 
-[<img src = "https://img.shields.io/badge/instagram-%23EE157B.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/sumit.xv/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sumi1pandey/) 
+[<img src = "https://img.shields.io/badge/instagram-%23EE157B.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/sumi1pandey/)
 [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:spppandey252@gmail.com)
 
 #### CPP profiles :
@@ -33,6 +33,6 @@ I am a Data Science Student !<br>
 
 ### Some of my GitHub Stats:
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=itsyoursumit&show_icons=true&theme=tokyonight&line_height=40">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsyoursumit&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=sumi1pandey&show_icons=true&theme=tokyonight&line_height=40">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumi1pandey&theme=tokyonight">
 </p>
