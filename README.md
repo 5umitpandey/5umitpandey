@@ -1,4 +1,4 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><br>My name is Sumit Pandey.
+# Hey there <img src="https://giphy.com/gifs/dog-pug-puglie-OpBA2nKQog7LENz8Of" width="30px"><br>My name is Sumit Pandey.
 I am a Data Science Student !<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5umitpandey" /> </p> 
