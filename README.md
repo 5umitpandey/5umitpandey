@@ -36,3 +36,6 @@ I am a Data Science Student !<br>
     <img src="https://github-readme-stats.vercel.app/api?username=5umitpandey&show_icons=true&theme=tokyonight&line_height=40">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5umitpandey&theme=tokyonight">
 </p>
+
+<! -- Roadmap.sh -->
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6667fa7b59bd70fae2e8a802?variant=dark&roadmaps=data-analyst" alt="roadmap.sh"/></a>
