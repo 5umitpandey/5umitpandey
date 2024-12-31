@@ -18,18 +18,23 @@ I am a Data Science Student !<br>
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&color=000000)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c&color=000000)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&color=000000)
+![MySQ](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black)
 
-###### Front-End :
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 ###### Tools :
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&color=000000)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&color=000000)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-181717?style=for-the-badge&logo=anaconda&color=000000)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=000000)
+
+###### Visualization :
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+###### OS :
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
 
 ### Some of my GitHub Stats:
 <p>
