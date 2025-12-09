@@ -33,11 +33,3 @@ I am a Data Science Student !<br>
 
 ###### OS :
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-
-### Some of my GitHub Stats:
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=5umitpandey&show_icons=true&theme=tokyonight&line_height=40">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5umitpandey&theme=tokyonight">
-</p>
