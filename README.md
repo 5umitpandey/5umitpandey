@@ -4,16 +4,15 @@ I work on applied machine learning, deep learning, model deployment and scalable
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5umitpandey" /> </p> 
 
-#### Connect with me on :
+### Connect with me on :
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/5umitpandey/) 
 [<img src = "https://img.shields.io/badge/instagram-%23EE157B.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/5umitpandey/)
-[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:sumi1xpandey@gmail.com)
-
-##### CPP profiles :
-[<img src ="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white">](https://www.codechef.com/users/tetnf)
-[<img src ="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/sumi1pandey)
-[<img src ="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white">](https://www.codechef.com/users/itsyoursumit)
-
+[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:sumitpandey@myyahoo.com)
+[<img src ="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">](https://leetcode.com/5umitpandey/)
+[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">](https://www.kaggle.com/itsyoursumit)
+[<img src ="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white">](https://www.codechef.com/users/tetnf)
+[<img src ="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/sumi1pandey)
+[<img src ="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white">](https://www.codechef.com/users/itsyoursumit)
 
 ##### Languages :
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&color=000000)
