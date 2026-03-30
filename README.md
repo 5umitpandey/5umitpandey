@@ -1,7 +1,6 @@
 # Hey there <img src="https://i.giphy.com/OpBA2nKQog7LENz8Of.webp" width="50px" height="35px"><br>My name is Sumit Pandey, I am an AI ML Student.
 I work on applied machine learning, deep learning, model deployment and scalable data systems. My focus is solving real problems through experimentation, structured learning and clean engineering.
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5umitpandey" /> </p> 
 
 ### Connect with me on :
